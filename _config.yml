@@ -1,3 +1,14 @@
 theme: jekyll-theme-minimal
-title: Marieke's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Marieke's Docs
+description: A small demo documentation site built with GitHub Pages and Jekyll.
+
+# Navigation links shown in the sidebar
+nav:
+  - title: Home
+    url: /
+  - title: Getting Started
+    url: /docs/getting-started
+  - title: Installation
+    url: /docs/installation
+  - title: Usage
+    url: /docs/usage
